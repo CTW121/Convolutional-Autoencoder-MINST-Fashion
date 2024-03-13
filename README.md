@@ -8,3 +8,6 @@
 - MINST Fashion dataset is used.
 
 ## Goal
+- Detect out of distribution data.
+- Give a low dimensional description of the dataset in terms of the five modes of the distribution.
+- To classify the remaining data points into the five classes.
